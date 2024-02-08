@@ -5,7 +5,7 @@
 
 - 🌱 Aktualnie uczę się **html** oraz umiem **javascript**
 
-- 📫 Mój główny Discord **[Kindergarten](https://discord.gg/xc2F39ybjx)**
+- 📫 Mój główny Discord to **[Kindergarten](https://discord.gg/xc2F39ybjx)**
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=re7na2&show_icons=true&locale=pl&layout=compact" alt="re7na2" /></p>
 
